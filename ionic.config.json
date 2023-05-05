@@ -1,0 +1,7 @@
+{
+  "name": "cordovareact",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
